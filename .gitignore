@@ -1,2 +1,5 @@
 # Ignore the PDF files from root
 /*.pdf
+
+# Ignore venv files
+/latamds
