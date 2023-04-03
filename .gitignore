@@ -3,3 +3,6 @@
 
 # Ignore venv files
 /latamds
+
+# Vscode workspace
+/.vscode
